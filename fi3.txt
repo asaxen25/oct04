@@ -1,1 +1,2 @@
 Adding text to fi3.txt
+Adding 2nd line to fi3.txt
